@@ -19,8 +19,9 @@ This app enables **offline communication between devices** without using the int
 ### 🔄 Mesh Network Illustration
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92d3088e-5188-4467-a452-8d6dd2eb0645/direct%20and%20indirect.png" width="400"/>
+  <img src="assets/direct_and_indirect.png" width="400"/>
 </p>
+
 
 
 
