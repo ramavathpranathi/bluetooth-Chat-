@@ -17,6 +17,7 @@ This app enables **offline communication between devices** without using the int
   No internet connection is required — ideal for remote locations or emergency situations.
 
 ### 🔄 Mesh Network Illustration
+![image](https://github.com/user-attachments/assets/50a5c375-0d1a-4c2a-a339-f430e3a6807b)
 
 <p align="center">
   <img src="!![image](https://github.com/user-attachments/assets/97b643ed-10d0-42e1-9de7-a660ac84e85f)
