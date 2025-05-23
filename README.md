@@ -23,7 +23,4 @@ This app enables **offline communication between devices** without using the int
 " width="400"/>
 </p>
 
-You can replace `"path_to_your_image.png"` with the correct path to the image in your repository, for example:
 
-```html
-<img src="images/mesh-diagram.png" width="400"/>
